@@ -1,15 +1,16 @@
 .listItem {
   display: flex;
   align-items: center;
+  border-radius: 5px;
   justify-content: space-between;
-  border: 3px solid rgb(49, 105, 138);
-  padding-left: 40px;
-  padding-right: 40px;
+  border: 3px inset rgb(5, 54, 39);
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 10px;
 }
 .name,
 .number {
-  font-size: 18px;
+  font-size: 20px;
 }

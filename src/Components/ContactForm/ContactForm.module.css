@@ -1,11 +1,11 @@
 .form {
-  border: 3px solid rgb(49, 105, 138);
+  border: 5px dotted rgb(5, 54, 39);
   padding: 40px;
 }
 
 .input {
-  max-width: 500px;
-  height: 30px;
+  max-width: 450px;
+  height: 20px;
 }
 
 .label {
